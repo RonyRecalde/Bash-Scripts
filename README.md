@@ -31,8 +31,6 @@
 6. while [while.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/while.sh)
 7. case [case.sh](https://github.com/RonyRecalde/Bash-Scripts-Spanish/blob/main/Estructuras%20de%20Control/case.sh)
 
-## Funciones
-
 ## Networking
 
 ## Criptografía
